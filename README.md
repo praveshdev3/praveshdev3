@@ -1,4 +1,4 @@
-<img align="right" alt="GIF" src="https://github.com/praveshdev3/praveshdev3/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/praveshdev3/praveshdev3/blob/main/code.gif?raw=true" width="500" height="320" />
 
 hi, i'm **Pravesh Goyal**, a passionate self-taught full stack web developer. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 
