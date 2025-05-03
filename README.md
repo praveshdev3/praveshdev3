@@ -2,8 +2,8 @@
 
 <img align="right" alt="GIF" src="https://github.com/praveshdev3/praveshdev3/blob/main/code.gif?raw=true" width="500" height="320" />
 
-Hi, I'm **Pravesh Goyal** - a backend engineer with deep experience building scalable, cloud-native microservices using Go.
-Over the past few years, I’ve designed and implemented distributed systems, built REST/gRPC APIs, with a strong focus on clean architecture, performance, and maintainability and worked extensively with PostgreSQL, MongoDB, and cloud platforms like AWS. I take pride in writing clean, maintainable code and designing resilient, observable architectures.  At Tyke, I’ve led core backend development — from designing APIs and data models to ensuring uptime and scalability in production.
+Hi, I'm **Pravesh Goyal** - a backend engineer with deep experience building scalable, cloud-native microservices using Go.</br>
+Over the past few years, I’ve designed and implemented distributed systems, built REST/gRPC APIs, with a strong focus on clean architecture, performance, and maintainability and worked extensively with PostgreSQL, MongoDB, and cloud platforms like AWS. I take pride in writing clean, maintainable code and designing resilient, observable architectures.  At <a alt="Tykeinvest" target="_blank"  href="https://tykeinvest.com/">*Tyke*</a>, I’ve led core backend development — from designing APIs and data models to ensuring uptime and scalability in production.</br>
 
 I'm particularly passionate about backend performance, developer productivity, and building systems that scale gracefully under load.
 
@@ -13,7 +13,7 @@ I'm particularly passionate about backend performance, developer productivity, a
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-  <img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+  <img alt="Redis" src="https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white"/>
   <img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
