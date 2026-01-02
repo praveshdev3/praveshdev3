@@ -3,7 +3,7 @@
 <img align="right" alt="GIF" src="https://github.com/praveshdev3/praveshdev3/blob/main/code.gif?raw=true" width="500" height="320" />
 
 Hi, I'm **Pravesh Goyal** - a backend engineer with deep experience building scalable, cloud-native microservices using Go.</br>
-Over the past few years, I’ve designed and implemented distributed systems, built REST/gRPC APIs, with a strong focus on clean architecture, performance, and maintainability and worked extensively with PostgreSQL, MongoDB, and cloud platforms like AWS. I take pride in writing clean, maintainable code and designing resilient, observable architectures.  At <a alt="Tykeinvest" target="_blank"  href="https://tykeinvest.com/">*Tyke*</a>, I’ve led core backend development — from designing APIs and data models to ensuring uptime and scalability in production.</br>
+Over the past few years, I’ve designed and implemented distributed systems, built REST/gRPC APIs, with a strong focus on clean architecture, performance, and maintainability and worked extensively with PostgreSQL, MongoDB, and cloud platforms like AWS. I take pride in writing clean, maintainable code and designing resilient, observable architectures.  At <a alt="Mobileum" target="_blank"  href="https://mobileum.com/">*Mobileum*</a>, I’ve led core backend development — from designing APIs and data models to ensuring uptime and scalability in production.</br>
 
 I'm particularly passionate about backend performance, developer productivity, and building systems that scale gracefully under load.
 
