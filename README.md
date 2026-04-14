@@ -2,10 +2,13 @@
 
 <img align="right" alt="GIF" src="https://github.com/praveshdev3/praveshdev3/blob/main/code.gif?raw=true" width="500" height="320" />
 
-Hi, I'm **Pravesh Goyal** - a backend engineer with deep experience building scalable, cloud-native microservices using Go.</br>
-Over the past few years, I’ve designed and implemented distributed systems, built REST/gRPC APIs, with a strong focus on clean architecture, performance, and maintainability and worked extensively with PostgreSQL, MongoDB, and cloud platforms like AWS. I take pride in writing clean, maintainable code and designing resilient, observable architectures.  At <a alt="Mobileum" target="_blank"  href="https://mobileum.com/">*Mobileum*</a>, I’ve led core backend development — from designing APIs and data models to ensuring uptime and scalability in production.</br>
+I’m **Pravesh Goyal**, - a backend engineer specializing in building scalable, cloud-native systems using Go.
 
-I'm particularly passionate about backend performance, developer productivity, and building systems that scale gracefully under load.
+I’ve designed and implemented distributed microservices and high-performance REST/gRPC APIs, with a strong focus on clean architecture, reliability, and scalability. My experience spans PostgreSQL, MongoDB, and AWS, where I’ve built systems that handle production workloads with high availability.
+
+At <a alt="Mobileum" target="_blank"  href="https://mobileum.com/">*Mobileum*</a>, I’ve led core backend development—owning API design, data modeling, and system reliability—ensuring services remain performant and resilient under scale.
+
+I’m particularly passionate about backend performance, developer productivity, and designing systems that scale gracefully.
 
 <h3>Tech I work with</h3>
 <p>
@@ -15,6 +18,7 @@ I'm particularly passionate about backend performance, developer productivity, a
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Redis" src="https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white"/>
   <img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
+  <img alt="Kafka" src="https://img.shields.io/badge/Apache%20Kafka-000?style=flat-square&logo=apachekafka" />
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
